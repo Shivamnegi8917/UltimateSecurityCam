@@ -43,6 +43,7 @@ If the difference is more than a threshold , we'll consider a breach happening.
 ## Setup instructions
 ---
 [(Back to top)](#list-of-contents)
+- Run `setup.py` by double click or use `python setup.py install` in terminal to  install required packages.
 - To run , simply copy the code in the `UltimateSecurityCam.py` and run it.
 - More formally , fork the code , and clone it your machine . I recommend that you use the GitH desktop app.
   - If you need a python IDE , I recommend using pycharm. [Tutorial to install : ](https://www.youtube.com/watch?v=QzcaEELafkE).
@@ -50,6 +51,7 @@ If the difference is more than a threshold , we'll consider a breach happening.
 
 
 ## Running instructions : 
+- Run `setup.py` by double click or use `python setup.py install` in terminal to  install required packages.
 - Open up StarterCode.py in your preferred python IDE [windows.py](PythonCode/Windows.py)
 
 
